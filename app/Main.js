@@ -6,7 +6,7 @@ import { CSSTransition } from "react-transition-group";
 import Axios from "axios";
 Axios.defaults.baseURL = process.env.BACKENDURL || "https://backendformyapp.herokuapp.com";
 
-//my Components
+//my Componentss
 import Header from "./components/Header";
 import HomeGuest from "./components/HomeGuest";
 import Footer from "./components/Footer";
